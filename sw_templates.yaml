@@ -3,19 +3,20 @@ Header:
   Date: ''
   ExperimentName: ''
   FileVersion: 5
-  InstrumentType: ''
-  Workflow: ''
+  InstrumentType: NanoforSPS
+  Workflow: GenerateFASTQ
 LibraryPreparation:
   Chemistry:
     Adapter1: ''
     Adapter2: ''
-    Assay: qweqweqwe
-    ChemistryName: qwe
+    Assay: ''
+    ChemistryName: ''
     IndexAdapters: AmpliSeq CD Indexes (384)
-  LPWorkflow: qwe
+    LibraryPrepWorkflow: AmpliSeq Library PLUS for illumina
 RunInfo:
-  Indexes: ''
+  DeviceSettings: default
+  Indexes: none
   Read1: ''
   Read2: ''
-  Script: qweqwe
+  Script: workfile.py
   TailsCount: ''
