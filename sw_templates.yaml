@@ -1,13 +1,21 @@
-a: '1'
-access:
-  acsees:
-  - switchport mode access
-  - switchport access vlan
-  - switchport nonegotiate
-  - spanning-tree portfast
-  - spanning-tree bpduguard enable
-trunk:
-- - switchport trunk encapsulation dot1q
-- switchport mode trunk
-- switchport trunk native vlan 999
-- switchport trunk allowed vlan
+Header:
+  Comment: ''
+  Date: ''
+  ExperimentName: ''
+  FileVersion: 5
+  InstrumentType: ''
+  Workflow: ''
+LibraryPreparation:
+  Chemistry:
+    Adapter1: ''
+    Adapter2: ''
+    Assay: qweqweqwe
+    ChemistryName: qwe
+    IndexAdapters: AmpliSeq CD Indexes (384)
+  LPWorkflow: qwe
+RunInfo:
+  Indexes: ''
+  Read1: ''
+  Read2: ''
+  Script: qweqwe
+  TailsCount: ''
