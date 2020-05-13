@@ -1,0 +1,52 @@
+Application: Test1
+Device:
+  SerialNumber: 200504
+FlowCell:
+  SerialNumber: 200304
+Library:
+  Adapter1: AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+  Adapter2: AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+  Assay: TruSeq HT
+Rawdata:
+  Clusters:
+    Density: '0'
+    Total: '419'
+  Signals:
+    Max: '29'
+    Min: '2'
+ReagentStand:
+  Chemistry: TestKit
+  SerialNumber: 2020202
+Samples:
+  Sample1:
+    Description: ' ~ '
+    GenomeFolder: Mycobacterium_tuberculosis_h37rv
+    I5_Index_ID: D504
+    I7_Index_ID: D701
+    ID: 1-29O
+    Name: 1-29O
+    index1: ATTACTCG
+    index2: GGCTCTGA
+  Sample2:
+    Description: '~'
+    GenomeFolder: Mycobacterium_tuberculosis_h37rv
+    I5_Index_ID: D504
+    I7_Index_ID: D703
+    Sample_ID: 2-2R
+    Sample_Name: 2-2R
+    index1: CGCTCATT
+    index2: GGCTCTGA
+Sequence:
+  Cell: '1'
+  Date: 2020-05-08 16:16:34.327298
+  Description: Test on water for timings. Attempt 4.
+  Library: Тест №1
+  Stand: '1'
+  Status: 2
+Workflow:
+  Indices: 0
+  Read1: 251
+  Read2: 251
+  Recipe: Test1
+  Sides: 2
+  Tiles: 40

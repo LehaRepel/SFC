@@ -1,0 +1,14 @@
+﻿[Version]
+1
+[Name]
+IDT-ILMN Nextera DNA UD Indexes (384 Indexes)
+[PlateExtension]
+nexud384
+[Settings]
+Adapter	CTGTCTCTTATACACATCT
+[ChildIndexKits]
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set A	A
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set B	B
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set C	C
+IDT-ILMN Nextera DNA UD Indexes (96 Indexes) Set D	D	
+[DefaultLayout_DualIndex]

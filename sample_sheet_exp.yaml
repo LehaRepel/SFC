@@ -1,0 +1,38 @@
+Header:     # Описание
+ FileVersion: 5
+ ExperimentName: qwe
+ Date: 22.03.2020
+ Workflow: GenerateFASTQ
+ InstrumentType: NanoforSPS
+ Comment:
+Application:  # Обработка
+  AplicationName: FASTQ Only
+  ReverseComplement: no
+LibraryPreparation:  # Описание библиотеки
+ LPWorkflow: filenameLPWF 
+ Chemestry:
+  ChemistryName: Amplicon
+  Assay: AmpliSeq Library PLUS for Illumina
+  IndexAdapters: "AmpliSeq CD Indexes (384)"
+  Adapter1: CTGTCTCTTATACACATCT
+  Adapter2: 
+ Comment:
+Samples:  # Описание образцов
+ - Sample1:
+    Id:
+    SampleName: name1
+    Index1: ACTAAGAT
+    IdIndex1:
+    Index2: GTGCGATA
+ - Sample2:
+    SampleName: name2
+    Index1: ACATAGAT
+    Index2: GTCCGGATA
+RunInfo:  # Параметры запуска
+ Script: workfile.py
+ Read1: 151
+ Read2: 151
+ Indexes: dual
+ TailsCount: 39
+ SurfaceCount: 1
+ DeviceSettings: default 

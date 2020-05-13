@@ -1,0 +1,15 @@
+﻿[Version]
+1
+[Name]
+AmpliSeq CD Indexes (384)
+[PlateExtension]
+amp384
+[Settings]
+IndexOnly
+Adapter	CTGTCTCTTATACACATCT
+[ChildIndexKits]
+AmpliSeq CD Indexes Plate A	A
+AmpliSeq CD Indexes Plate B	B
+AmpliSeq CD Indexes Plate C	C
+AmpliSeq CD Indexes Plate D	D	
+[DefaultLayout_DualIndex]

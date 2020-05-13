@@ -1,0 +1,13 @@
+﻿[Version]
+1
+[Name]
+TruSeq DNA Single Indexes (A & B)
+[PlateExtension]
+trudsingle
+[Settings]
+Adapter	AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+[ChildIndexKits]
+TruSeq DNA Single Indexes Set A	A
+TruSeq DNA Single Indexes Set B	B
+[DefaultLayout_SingleIndex]

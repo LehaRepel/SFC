@@ -1,0 +1,15 @@
+﻿[Version]
+1
+[Name]
+Nextera XT v2 Index Kit
+[PlateExtension]
+nexxtv2
+[Settings]
+Adapter	CTGTCTCTTATACACATCT
+[ChildIndexKits]
+Nextera XT v2 Index Kit A	A
+Nextera XT v2 Index Kit B	B
+Nextera XT v2 Index Kit C	C
+Nextera XT v2 Index Kit D	D
+[DefaultLayout_SingleIndex]	
+[DefaultLayout_DualIndex]

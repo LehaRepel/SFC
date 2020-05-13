@@ -1,0 +1,13 @@
+﻿[Version]
+1
+[Name]
+TruSeq RNA Single Indexes (A & B)
+[PlateExtension]
+trursingle
+[Settings]
+Adapter	AGATCGGAAGAGCACACGTCTGAACTCCAGTCA
+AdapterRead2	AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+[ChildIndexKits]
+TruSeq RNA Single Indexes Set A	A
+TruSeq RNA Single Indexes Set B	B
+[DefaultLayout_SingleIndex]
